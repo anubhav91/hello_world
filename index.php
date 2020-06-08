@@ -1,3 +1,3 @@
 <?php
-echo 'testing update via jenkins testing again';
+echo 'testing hello world';
  ?>
