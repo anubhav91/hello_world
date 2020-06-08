@@ -1,3 +1,3 @@
 <?php
-echo 'This is for hello worlds';
+echo 'Testing local automation to ftp';
  ?>
