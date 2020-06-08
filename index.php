@@ -1,3 +1,3 @@
 <?php
-echo 'Hello World final';
+echo 'Automatic upload via jenkins';
  ?>
