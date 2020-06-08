@@ -1,3 +1,3 @@
 <?php
-echo 'Automatic upload via jenkins';
+echo 'This is for automatic upload testing';
  ?>
