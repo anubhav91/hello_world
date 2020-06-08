@@ -1,3 +1,3 @@
 <?php
-echo 'This is second index file';
+echo 'This is second index file updated';
  ?>
