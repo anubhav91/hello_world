@@ -1,3 +1,3 @@
 <?php
-echo 'Testing local automation to ftp';
+echo 'This is for automation testing';
  ?>
