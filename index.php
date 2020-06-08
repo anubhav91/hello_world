@@ -1,3 +1,3 @@
 <?php
-echo 'This is first test automatic upload';
+echo 'This is for hello worlds';
  ?>
